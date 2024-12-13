@@ -1,0 +1,27 @@
+body{
+    background-image:url(slike/Trouglovi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: moj_font;
+    color: aquamarine;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+@font-face {
+    font-family: moj_font;
+    src: url(font/DynaPuff-VariableFont_wdth\,wght.ttf);
+}
+input{
+    background-color: blueviolet;
+}
+input:hover{
+    background-color: cadetblue;
+}
+textarea{
+    background-color: crimson;
+}
+textarea:hover{
+    background-color: blanchedalmond;
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url(slike/Svemir.jpg);
+    color:gold
+}
+a{
+    color:chartreuse;
+    text-decoration: none;
+}
+th{
+    background-color: blueviolet;
+}
+td{
+    background-color: black;
+    color: orangered;
+}
+table{
+    border: 3px solid orange;
+}
+h2{
+    color: coral;
+}
+

@@ -1,0 +1,23 @@
+body{
+    background-image: url(slike/crno\ i\ crveno.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: moj_font;
+    color: orangered;
+}
+@font-face {
+    font-family: moj_font;
+    src: url(font/BebasNeue-Regular.ttf);
+}
+a{
+    text-decoration: none;
+}
+div img{
+    width: 200px;
+    height: 200px;
+    animation: animacija 5s linear infinite;
+}
+@keyframes animacija {
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}

@@ -1,0 +1,19 @@
+body{
+    background-image: url(slike/CRNOCRVENO.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: moj_font;
+    color: yellow;
+}
+a{
+    color: chocolate;
+    text-decoration: none;
+}
+h2{
+    color: cornflowerblue;
+    font-family: moj_font;
+}
+@font-face {
+    font-family: moj_font;
+    src: url(font/DeliusUnicase-Regular.ttf);
+}
